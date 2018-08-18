@@ -30,3 +30,9 @@ handlers:
 - url: /.*
   script: index.php
   secure: always
+
+env_variables:
+  # MYSQL_DSN: mysql:unix_socket=/cloudsql/nypd-running-club:us-east4:nypdrunningclub;dbname=nypdrunningclub
+  MYSQL_DSN: :/cloudsql/nypd-running-club:us-east4:nypdrunningclub
+  MYSQL_USER: root
+  MYSQL_PASSWORD: 92smKqodP28m5jjo

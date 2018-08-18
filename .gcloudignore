@@ -4,3 +4,4 @@
 .gitignore
 .sass-cache
 node_modules
+cloud_sql_proxy

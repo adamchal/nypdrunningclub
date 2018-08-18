@@ -56,8 +56,8 @@ class Event
         $this->site = $siteData;
         $this->detail['id'] = intval($theID);
         if ($this->detail['id'] > 0) {
-            $rs = $this->DB->Execute($this->sql['justOne'] . $this->detail['id']);
             // var_dump($this->sql['justOne'] . $this->detail['id']);exit;
+            $rs = $this->DB->Execute($this->sql['justOne'] . $this->detail['id']);
             if ($rs) {
                 // RECORD FOUND
                 $this->detail = $rs->fields;

@@ -6,9 +6,9 @@ $site = array( // Production
 );
 
 $dbConfig = array(
-    'server'	=> '127.0.0.1',
-    'user'		=> 'root',
-    'password'	=> 'rd112358',
+    'server'	=> strpos($_SERVER['HTTP_HOST'], 'localhost') !== false ? '35.188.239.30' : getenv('MYSQL_DSN'),
+    'user'		=> getenv('MYSQL_USER'),
+    'password'	=> getenv('MYSQL_PASSWORD'),
     'database'	=> 'nypdrunningclub'
 );
 
