@@ -1,0 +1,32 @@
+runtime: php55
+api_version: 1
+
+handlers:
+
+# Static Assets
+- url: /docs
+  static_dir: docs
+
+- url: /img
+  static_dir: img
+
+- url: /lib/imageswap\.js
+  static_files: lib/imageswap.js
+  upload: lib/imageswap\.js
+
+- url: /lib/manage\.css
+  static_files: lib/manage.css
+  upload: lib/manage\.css
+
+- url: /lib/screen\.css
+  static_files: lib/screen.css
+  upload: lib/screen\.css
+
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+# GET     [HTML] : Forward all requests to index.php
+- url: /.*
+  script: index.php
+  secure: always

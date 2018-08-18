@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+body {
+	background: url("../img/bg2.gif") repeat-x #ffffff;
+	margin: 0;
+	padding: 0;
+	font-size: 10pt;
+	font-family: Helvetica, Arial, Tahoma, sans-serif;
+	text-align: center;
+	color: #273451;
+}
+img { padding: 0; margin: 0; border: none;}
+
+#site{
+	width: 987px; padding: 0; margin: 0 auto;
+	text-align: left;
+	background: #ffffff;
+}
+#nav {
+	background: url("../img/hdr2Right.gif") no-repeat right;
+	height: 175px; width: 987px;
+}
+#navItems { width: 185px; padding: 0; margin: 0; display: block; }
+#navItems img { display: block; }
+#topnav { #ffffff; height: 88px; width: 987px; margin: 0; padding: 0; font-size: 9pt; color: #415787; text-transform: uppercase; }
+#topnav a { color: #e0bc2e; text-decoration: none; }
+#topnav a:hover { color: #e0bc2e; text-decoration: underline; }
+#topnav strong { color: #415787; font-weight: normal; }
+
+#pageContent { 	}
+td#leftCol  { margin: 0; padding: 0; line-height: 150%; }
+td#rightCol { margin: 0; padding: 0; line-height: 150%; }
+td#oneCol   { margin: 0; padding: 0; line-height: 150%; }
+
+ul { margin-top: 0; margin-bottom: 0;}
+
+#sidebar { background-color: #ebebeb; padding: 10px; margin: 0; }
+#subSidebar { background-color: #fafafa; padding: 10px; margin: 0; }
+
+#footer { clear: both; background: #ebebeb; font-size: 8pt; text-align: right; border-top: 1px dotted #cccccc; margin: 50px 0; padding: 10px; color: #666666; }
+#footer strong { color: #333333; }
+#footer a { color: #000000; text-decoration: none; font-weight: bold; }
+#footer a strong { color: #d12421; font-weight: bold; }
+#footer a:hover { text-decoration: underline; }
+
+#leftCol h1, #oneCol h1 { color: #415787; font-size: 13pt; font-weight: bold; padding: 5px 0; margin: 0;  text-transform: uppercase;}
+#leftCol h2, #oneCol h2, #rightCol h2 { background-color: #415787; color: #ffffff; font-size: 9pt; font-weight: bold; margin: 10px 0 5px 0; padding: 2px;  text-transform: uppercase;}
+#rightCol h3 { color: #415787; font-size: 9pt; font-weight: normal; padding: 0; margin: 0;  text-transform: uppercase; }
+#rightCol p { font-size: 9pt; margin: 0 0 9px 0; padding: 0;}
+
+a { color: #273451; text-decoration: underline; }
+a:hover { color: #e0bc2e; text-decoration: underline; }

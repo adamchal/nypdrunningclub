@@ -1,0 +1,10 @@
+<h1>The NYPD Running Club</h1>
+
+<p>Welcome to the <strong>NYPD Running Club</strong> website. We're always looking to improve the services we offer to our club membership, so we created this site which allows us to be more responsive to our member's needs and interests.  With that in mind, this site will be updated more frequently and hopefully will develop in 
+such a way that it contains the events and information that our members are most interested in.  Feel free to email us (<a href="mailto:NYPDRC@Verizon.net">NYPDRC@Verizon.net</a>) with suggested events and/or topics that you believe 
+should be posted on this site.</p>
+ 
+<p>Don't forget to visit the <a href="upcoming">Upcoming Events</a> page and consider participating in some of the events listed. Most importantly, consider running some of the listed races throughout the year that are in memory of our lost comrades, or Law Enforcement affiliated.</p>
+
+<p style="text-align: center;"><a href="http://nypdrc.smugmug.com/"><img src="img/btnPhotos.gif" alt="Photo Gallery" height="139" width="290" border="0" ></a></p>
+<p style="text-align: center;">To join the NYPD Running Club visit the <a href="about">About Us page</a></p>

@@ -1,0 +1,11 @@
+<h1>That Page Wasn't Found</h1>
+<h2>Sorry About That</h2>
+
+<p>We can't find the page that you were looking for. This could be due to a couple of different things:</p>
+
+<ul>
+	<li><strong>You followed an old link</strong>. We moved some things around not too long ago, 
+		and you may have followed a link from another Web site. You might try looking for it from the
+		<a href="/">home page</a>, and then let the site that sent you here know that the page has moved.</li>
+	<li><strong>You typed in an invalid URL</strong>. Again, try starting over from our <a href="/">home page</a>.</li>
+</ul>

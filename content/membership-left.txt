@@ -1,0 +1,20 @@
+<h1>About Us</h1>
+
+<p>The prime object of the NYPD-RC shall be the promotion and encouragement of running, physical fitness and camaraderie within the Law Enforcement community. Through the camaraderie of a club atmosphere, members will enjoy running for the purpose of general fitness as well as personal and team goals.</p>
+
+<p>In furtherance of objective, this association may hold races or fun runs, compete in team events, attend and/or organize social events, print a newsletter; make awards; and do all such other things as may be conducive to the encouragement of running and physical fitness.</p>
+
+<p>Other objectives are to engage in activities that publicize by appropriate means law enforcement affiliated events with the intent to promote a positive image of law enforcement.</p>
+
+<p>This association has no official affiliation with the <a href="http://www.nyc.gov/html/nypd/html/home/home.shtml" target="_blank">New York City Police Department</a>, other then the fact that the general membership and club officers are made up primarily of active or retired employees of the department.</p>
+<p>
+
+<!-- commented by Shan and Roland -8/8/2008 moved from index page..-->
+
+<table border="0" cellpadding="0" cellspacing="5">
+	<tr valign="middle">
+		<td>Download the NYPD Running Club Membership Application to the right. It is available both as a Microsoft Word document and as an Adobe Acrobat PDF.</td>
+		<td><a href="docs/NYPD_Running_Club_Membership_Application.doc"><img src="img/ico/MemberAppDoc.gif" alt="[DOC]"></a></td>
+		<td><a href="docs/NYPD_Running_Club_Membership_Application.pdf"><img src="img/ico/MemberAppPdf.gif" alt="[PDF]"></a></td>
+	</tr>
+</table>

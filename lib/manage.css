@@ -1,0 +1,35 @@
+@CHARSET "UTF-8";
+#adminPanel { width: 1000px; padding: 10px; margin: 10px; background: #ffffff; border: 3px solid #ebebeb; }
+
+#adminHead { background: url("../img/hdr-1.gif") no-repeat #ffffff; height: 88px; width: 987px; }
+#adminHead h1 { color: #003366; margin: 0; padding: 20px 0 0 0; font-weight: normal; text-align: right; }
+#adminHead h2 { color: #4661ad; margin: 0; padding: 0 0 20px 0; font-weight: normal; text-align: right; }
+
+#adminNav { margin: 0; padding: 0px; }
+#adminNav ul { padding-left: 0; margin-left: 0; background-color: #4661ad; color: #ffffff;
+	float: left; width: 100%; font-family: arial, helvetica, sans-serif;  }
+#adminNav ul li { display: inline; }
+
+#adminNav ul li a { padding: 0.2em 1em; background-color: #4661ad; color: #ffffff; text-decoration: none; float: right;
+	border-left: 1px dotted #fff; text-transform: uppercase; }
+#adminNav ul li a:hover { background-color: #ce2128; color: #fff; }
+#adminNav ul li a#active { background-color: #003366; color: #ffffff; }
+
+#adminContent { margin: 50px 10px; }
+#adminContent table { width: 100%; }
+#adminContent td { border-bottom: 1px dotted #cccccc; }
+
+form label, form input {
+	display: block;
+	width: 200px;
+	float: left;
+	margin-bottom:10px;
+}
+form label {
+	text-align: right;
+	width: 100px;
+	padding-right: 20px;
+}
+form br {
+	clear: left;
+}
