@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title><?=$nav->getSiteName(); ?></title>
 	<link rel="stylesheet" media="all" href="<?=$site['baseURL'] ?>lib/screen.css">
-	<script src="<?=$site['baseURL']?>imageswap.js" type="text/javascript"></script>
+	<script src="<?=$site['baseURL']?>lib/imageswap.js" type="text/javascript"></script>
 	<link rel="shortcut icon" href="favicon.ico" >
 </head>
 <body <?=$nav->getBodyPreloader() ?>>
